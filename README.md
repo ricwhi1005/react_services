@@ -1,1 +1,1 @@
-# react_services
+# react_services is a service that provides help in IT. With computer or gaming setups with additional items that can be purchased. Items such as gaming consoles, laptops, cables, and more. The service is provided to those that need assistance in setting up and installing.
